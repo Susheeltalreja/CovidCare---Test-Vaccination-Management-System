@@ -91,7 +91,8 @@ _Add screenshots of your UI here to showcase the project._
 
 Example placeholders:  
 - **Admin Dashboard**  
-- ![Admin Site](image.png)
+- ![Admin Dashboard](image-3.png)
+- ![Admin Dashboard](image-4.png)
 - **Hospital Portal**  
 - ![Hospital Portal](image-1.png)
 - **Patient Portal**  
